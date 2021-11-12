@@ -1,4 +1,0 @@
-Hello world my name is Pranshu and I am a Python Programmer
-The quick brown fox jumps over the lazy dog
-Good Morning! How are you?
-Hacksaw Ridge is the best the movie to be ever created.
